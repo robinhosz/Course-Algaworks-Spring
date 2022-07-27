@@ -33,7 +33,7 @@ date in ISO format.
 3. Execute o arquivo `CourseApplication.java`. (Run the 'CourseApplication.java' file.)
 
 
-### 🧑 Autor
+### 🧑 Autor (Author)
 
 <a href="http://portfoliojrsz.herokuapp.com/">
  <img style="border-radius: 8px" src="https://user-images.githubusercontent.com/82779533/158067762-8d25be74-d955-41da-8a96-f400e75f902b.jpg" width="100px;" alt="José Robson"/>
@@ -43,7 +43,7 @@ date in ISO format.
 <br />
 <br />
 
-:point_down: Entre em contato.
+:point_down: Entre em contato. (Contact us)
 
 <br />
 
